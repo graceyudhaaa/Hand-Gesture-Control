@@ -10,7 +10,7 @@ Herry Kurniawan (4611421144)
 
 
 # Requeirement
-Python 3.7 - 3.9 versi 64 bit
+Python 3.7 - 3.8 versi 64 bit
 
 
 # Instalasi
